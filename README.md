@@ -1,8 +1,10 @@
 # 8,760 Hours Planner 
 
-Take a few hours for each life area and answer the questions in its file: past, present, desires
+Do this every year:
 
-- Write all internal judgements in Judgements.md.
+Take a few hours for each life area (Values & Purpose, Contribution & Impact, etc) and answer the questions in its file: past, present, desires
+
+- Write all internal judgements in 01 Judgements.md.
 - Use 7 level Likert scales, 1 being least/worst and 7 being most/best.
 
 Answer the questions in Themes.md
@@ -27,5 +29,5 @@ Schedule Monthly and Quarterly Reviews.
 - Every three months, spend an entire day.
 - Answer the questions in the Reviews folder.
 
-This process is from [Alex Vermeer](https://alexvermeer.com/8760hours/)
+This process is from [Alex Vermeer](https://alexvermeer.com/8760hours/). All errors are from [Trevor F. Smith](https://trevor.smith.name/).
 
